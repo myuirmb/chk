@@ -6,4 +6,8 @@ this is my first github tests;
 
 3 changes for branch
 
+
+4 changes for feature1
+
+
 5 changes for master
